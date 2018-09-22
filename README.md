@@ -10,4 +10,7 @@ $ bash run_digdag.sh
 
 ```bash
 $ docker exec -it docker-digdag bash
+
+# In Container
+> digdag push check-digdag-kill-spec
 ```
