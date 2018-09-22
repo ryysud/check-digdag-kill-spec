@@ -1,0 +1,10 @@
+timezone: Asia/Tokyo
+
++first-task:
+  echo>: 'Hello, First task!'
+
++second-task:
+  sh>: sleep 30 && touch /tmp/test
+
++third-task:
+  echo>: 'Hello, Third task!'
